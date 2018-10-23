@@ -239,5 +239,5 @@ set noswapfile
 set nobackup
 set nowritebackup
 " }}}
-autocmd VimEnter * echo ">^.^< LOL XD"
+autocmd VimEnter * echo ">^.^< GET STUFF DONE CAT"
 " vim:foldmethod=marker:foldlevel=0
