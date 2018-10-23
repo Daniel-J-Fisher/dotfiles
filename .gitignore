@@ -2,5 +2,7 @@
 nvim/.config/nvim/.cache
 nvim/.config/dein/cache_nvim
 nvim/.config/dein/state_nvim.vim
+nvim/.config/nvim/cache_vim
+nvim/.config/nvim/state_vim.vim
 *.log
 dein/
