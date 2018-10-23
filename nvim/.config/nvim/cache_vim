@@ -1,0 +1,3 @@
+['/home/baby/dotfiles/nvim/.config/nvim/init.vim']
+{"dein.vim": {"lazy": 0, "name": "dein.vim", "rtp": "/home/baby/.config/nvim/repos/github.com/Shougo/dein.vim", "repo": "/home/baby/.config/nvim/repos/github.com/Shougo/dein.vim", "normalized_name": "dein", "type": "git", "local": 1, "merged": 0, "sourced": 1, "path": "/home/baby/.config/nvim/repos/github.com/Shougo/dein.vim"}}
+{}
